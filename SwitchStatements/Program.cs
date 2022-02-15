@@ -24,7 +24,7 @@ namespace SwitchStatements
                     Console.WriteLine("Nice! Which direction specifically? Biology, Chemistry, Phuysics, anything else?");
                     break;
 
-                case "social Studies":
+                case "history":
                     Console.WriteLine("That sounds cool! I have Google for historical, geographical and economical facts and numbers.");
                     break;
 
